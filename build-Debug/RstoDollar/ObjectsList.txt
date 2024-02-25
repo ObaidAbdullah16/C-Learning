@@ -1,0 +1,1 @@
+../build-Debug/RstoDollar/main.cpp.o   
